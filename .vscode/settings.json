@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MYSQL local",
+            "database": "school_management",
+            "username": "root",
+            "password": "Ujala@2003",
+            "connectionTimeout": 30
+        }
+    ]
+}
